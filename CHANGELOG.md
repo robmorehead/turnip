@@ -1,5 +1,8 @@
 # CHANGE LOG
 
+## [4.3.1] - 2022-04-13 - Rob Morehead
+- Fork Turnip repo so we can bump Cucumber Gherkin and stop pulling from github.
+
 ## [Unreleased]
 
 ## [4.3.0] - 2021-05-16
